@@ -1,0 +1,81 @@
+:root {
+  --primary-color: #2ca0b5;
+}
+
+/* nav {
+  height: 4rem;
+  width: 100%;
+  background-color: #fff;
+  position: sticky;
+}
+
+#logo {
+  float: left;
+  font-size: 200%;
+  color: black;
+  transition: 0.5s ease-in;
+}
+
+#logo:hover {
+  color: var(--primary-color);
+}
+
+#logo span {
+  color: var(--primary-color);
+  transition: 0.5s ease-in;
+}
+
+#logo span:hover {
+  color: black;
+}
+
+#menu {
+  font-size: 110%;
+  list-style-type: none;
+}
+
+#menu li {
+  float: right;
+  margin-right: 20px;
+}
+
+#menu li a {
+  text-decoration: none;
+  color: black;
+  transition: 0.5s ease;
+}
+
+#menu li a:hover {
+  color: var(--primary-color);
+}
+
+#logo,
+#menu {
+  line-height: 65px;
+} */
+
+.carousel-item {
+  height: 32rem;
+  background: black;
+  color: white;
+  position: relative;
+}
+
+.container {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding-bottom: 50px;
+}
+
+.overlay-image {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  top: 0;
+  background-position: center;
+  background-size: cover;
+  opacity: 0.5;
+}
