@@ -80,6 +80,8 @@ One additional feature that I would have liked to add to this project would have
 
 If this were a real business, it would likely be a preview of what had already been posted on social media sites, Instagram in particular, in order to draw users into following our other pages and keeping up to date with us.
 
+I would have also liked to have added a button that can toggle between light and dark mode. This is a skill set that I have yet to acquire, but I greatly appreciate it on websites as it generally makes viewing a website more bearable. Especially on a brighter screened desktop.
+
 # Technologies Used
 
 This project was created using Bootstrap and was styled with some custon CSS.
@@ -89,6 +91,8 @@ I have used CSS and SCSS in the past, so using Bootstrap as a different means of
 The convenience of certain components being a part of Bootstrap made it much easier to create parts of my page including the carousel as well as the cards used on two of my pages.
 
 The icons I used were also from Bootstrap and Font Awesome.
+
+Wireframes were made using Figma.
 
 # Testing
 
@@ -127,7 +131,9 @@ This website has been deployed using GitHub Page using [this link](https://afabo
 ## Images
 
 [Carousel Slide 1](https://unsplash.com/photos/hRmlaSdNwaA)
+
 [Carousel Slide 2](https://unsplash.com/photos/kKObh7tUPNc)
+
 [Carousel Slide 3](https://www.pexels.com/photo/two-unpaired-black-and-gray-adidas-sply-350-v2-1032110/)
 
 ## Code
