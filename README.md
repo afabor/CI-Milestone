@@ -124,7 +124,19 @@ I had experimented a lot with the grid system, seeing the sorts of layouts I cou
 
 # Deployment
 
-This website has been deployed using GitHub Page using [this link](https://afabor.github.io/CI-Milestone/).
+This projet was developed using Visual Studio Code, committed to git and pushed to GitHub using the terminal built in Visual Studio Code.
+
+To deploy this website to GitHub Pages from its [GitHub Repo](https://github.com/afabor/CI-Milestone), the following steps were taken:
+
+1. Log into GitHub
+2. From the list of repositories on the screen, select afabor/CI-Milestone.
+3. From the menu items near the top of the page, select Settings.
+4. Scroll down to thte GitHub Pages section.
+5. Undeer Source, click the drop down menu labelled None and select Master Branch.
+6. On selecting Master Branch, the page is automatically refreshed and the website is now deployed
+7. Scroll back down to the GitHub Pages section to retrieve the link to the deployed website.
+
+This website has been deployed to GitHub Pages, using [this link](https://afabor.github.io/CI-Milestone/), you can view it for yourself.
 
 # Credits
 
