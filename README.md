@@ -1,4 +1,4 @@
-# Milestone Project - SneaKlean Premium Sneaker Cleaning Service.
+# SneaKlean Premium Sneaker Cleaning Service.
 
 This website was creating using Bootstrap.
 
@@ -130,4 +130,4 @@ This website has been deployed using GitHub Page using [this link](https://afabo
 
 ## Code
 
-Some code for [cards](https://getbootstrap.com/docs/5.3/components/card/) and [carousel](https://getbootstrap.com/docs/5.3/components/carousel/) were taken from the Bootstrap Docs.
+Some code for [cards](https://getbootstrap.com/docs/5.3/components/card/), [navbar](https://getbootstrap.com/docs/5.3/components/navbar/) and [carousel](https://getbootstrap.com/docs/5.3/components/carousel/) were taken from the Bootstrap Docs.
