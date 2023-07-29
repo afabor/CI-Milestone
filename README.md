@@ -58,7 +58,10 @@ The visuals of the website itself should bring more traction to other parts of t
 
 ## Wireframes
 
-** TO BE FINISHED **
+![Main Page Wire Frame](./assets/images/dt-frame-head.png)
+![Content Wire Frame](./assets/images/dt-frame-content.png)
+![Mobile Main Wire Frame](./assets/images/mb-frame-head.png)
+![Mobile Content Wire Frame](./assets/images/mb-frame-content.png)
 
 # Features
 
@@ -123,10 +126,9 @@ This website has been deployed using GitHub Page using [this link](https://afabo
 
 ## Images
 
-    -
-    -
-    -
-    -
+[Carousel Slide 1](https://unsplash.com/photos/hRmlaSdNwaA)
+[Carousel Slide 2](https://unsplash.com/photos/kKObh7tUPNc)
+[Carousel Slide 3](https://www.pexels.com/photo/two-unpaired-black-and-gray-adidas-sply-350-v2-1032110/)
 
 ## Code
 
