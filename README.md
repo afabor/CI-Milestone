@@ -76,3 +76,13 @@ As everything is located on one page and not multiple pages, it condenses the to
 One additional feature that I would have liked to add to this project would have been a gallery page showing some before and after images using a carousel slider to give users additional visuals of the services provided.
 
 If this were a real business, it would likely be a preview of what had already been posted on social media sites, Instagram in particular, in order to draw users into following our other pages and keeping up to date with us.
+
+# Technologies Used
+
+This project was created using Bootstrap and was styled with some custon CSS.
+
+I have used CSS and SCSS in the past, so using Bootstrap as a different means of layout definitely took getting used to. The grid system in Boostrap seems quite intuitive in how it works. On top of the lessons provided, I also looked at the Bootstrap docs as well as some YouTube videos to gain a further grasp on how to effectively utilise Bootstrap.
+
+The convenience of certain components being a part of Bootstrap made it much easier to create parts of my page including the carousel as well as the cards used on two of my pages.
+
+The icons I used were also from Bootstrap and Font Awesome.
