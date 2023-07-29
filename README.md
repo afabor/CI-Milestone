@@ -1,39 +1,57 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Milestone Project - SneaKlean Premium Sneaker Cleaning Service.
 
-Welcome,
+This website was creating using Bootstrap.
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+The idea of creating a website that fulfils a much needed niche in the sneakerhead community is a passion point of mine.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **May 11th, 2023**
+This website can be used for all types of shoes but the main audience would be people in the sneaker community as they frequently run into issues with shoe maintenance.
 
-## Codeanywhere Reminders
+# Table of Content
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+1. UX
 
-`python3 -m http.server`
+   - Project Goals
+   - Developer and Business Goals
+   - User Story
+   - Wireframes
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+2. Features
+3. Technologies Used
+4. Testing
+5. Deployment
+6. Credits
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+# UX
 
-`http_server`
+## Project Goals
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+The primary objective of this project was to display the services that we offer to customers within the sneaker community at large.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+This has generally been quite an untapped market and one with no large scale competitors.
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+In order to differenciate our online presence from being exclusively on social media, using a website adds a level of formality that I have no seen displayed by competitors.
 
-To log into the Heroku toolbelt CLI:
+Our audience is mainly going to be of the younger generation, so striking images and clear to read titles are going to draw them in more than larger lines of text. Utilising necessary imagery also helps the audience know whether this is a service they can associate with and benefit from.
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+## Business Goals
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+From the perspective of the business, the main goal would be to increase online presence and have further reach.
 
----
+As previously mentioned, other competitors mainly operate through social media and do not have a formal means by which to communicate with their business. This gives a neutral platform by which anyone can make an order with our business.
 
-Happy coding!
+Having more orders processed through the website also creates a better focus on the business as they wouldn't have to sift through direct messages on all platforms. Centralising all communications through the website and business email would create less stress for processing orders, especially in the events of high volume.
+
+## User Story
+
+### As a user aged 16-30 with an interest in sneakers, I want to:
+
+    - Be able to view the services being provided by the business.
+    - See sneakers that are relevant to current fashion trends.
+    - Be able to view their other social media accounts to further investigate.
+    - Have a visual representation of the service being provided.
+    - Have an understanding of how to use the service.
+    - Be able to navigate around the page effectively.
+    - Not have to read to much to understand what is being provided.
+
+All of these things collectively will let a user know whether this a service they need currently or may use in the future.
+The visuals of the website itself should bring more traction to other parts of the business, namely social media and Instagram in particular would give users access to a portfolio of images showing the work we have done with our clients.
