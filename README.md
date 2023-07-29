@@ -11,7 +11,7 @@ This website can be used for all types of shoes but the main audience would be p
 1. UX
 
    - Project Goals
-   - Developer and Business Goals
+   - Business Goals
    - User Story
    - Wireframes
 
@@ -55,3 +55,24 @@ Having more orders processed through the website also creates a better focus on 
 
 All of these things collectively will let a user know whether this a service they need currently or may use in the future.
 The visuals of the website itself should bring more traction to other parts of the business, namely social media and Instagram in particular would give users access to a portfolio of images showing the work we have done with our clients.
+
+## Wireframes
+
+** TO BE FINISHED **
+
+# Features
+
+The main features that were added to this website was a carousel that walks through the essense of our business and the services that will be provided.
+
+There was also information provided as to how they can use the service and it directs you further down the page with a button.
+From there, you mainly get some more explanations and imagery surrounding how our business operates and the different way in which you can use our services.
+
+An added benefit of this page is that you can effectively use every page on the screen without ever having to scroll on a desktop.
+Every page you will ever need is made accessible via buttons that smoothly take you to the relevant parts of the website.
+As everything is located on one page and not multiple pages, it condenses the total user experience and you understand the purpose of the website once you open it.
+
+## Bonus Features (not yet added)
+
+One additional feature that I would have liked to add to this project would have been a gallery page showing some before and after images using a carousel slider to give users additional visuals of the services provided.
+
+If this were a real business, it would likely be a preview of what had already been posted on social media sites, Instagram in particular, in order to draw users into following our other pages and keeping up to date with us.

@@ -1,5 +1,6 @@
 :root {
   --primary-color: #2ca0b5;
+  --secondary-color: #b1060f;
 }
 
 .navbar-brand {
@@ -13,7 +14,7 @@
 }
 
 .navbar-brand span {
-  color: var(--primary-color);
+  color: var(--secondary-color);
   transition: 0.5s ease-in;
 }
 
@@ -94,7 +95,7 @@
 
 .about .card i {
   font-size: 30px;
-  color: var(--primary-color);
+  color: var(--secondary-color);
 }
 
 #services {
