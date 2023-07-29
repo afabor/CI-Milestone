@@ -86,3 +86,48 @@ I have used CSS and SCSS in the past, so using Bootstrap as a different means of
 The convenience of certain components being a part of Bootstrap made it much easier to create parts of my page including the carousel as well as the cards used on two of my pages.
 
 The icons I used were also from Bootstrap and Font Awesome.
+
+# Testing
+
+When it came to testing this website, there are a number of things that I had struggled and am still figuring out.
+
+## What Went Wrong
+
+As I have worked with HTML, CSS and JavaScript before, working with Bootstrap was a completely new but good experience to have as a lot of things you may have to make yourself are made easier through Bootstrap.
+
+However, not all my time using Bootstrap was smooth sailing as I am still having some issues with certain aspects of my page. In particular, when I change screen sizes, the consistency of my cards change due to there being more text in some cards than others. This causes some to be longer than others, although they never go under each other and stay within their particular row.
+
+This is defintely something that I would like to be able to quick fix so I will do further research into this topic.
+
+Another issue I have had with this project is with media queries.
+
+When I put my website on a smaller screen, the divs after the carousel all seeem to merge into one. I am not sure why this happens as they are all separate divs.
+
+I have attempted different things in order to troubleshoot this, but nothing I have tried seems to work. The actual components act the way I want them to in terms of layout, but they all unfortunately overlap each other so you cannot see the Bootstrap grid variables at their fullest potential.
+
+## What Went Well
+
+On the brighter side, the website in full desktop size looks great and all the components work and flow as intended.
+
+Everything from top to bottom is extremely readable and there is a clear direction in which the website goes.
+
+Using Bootstrap for the carousel really simplified what I would have had to do otherwise so it was greatly beneficial.
+
+I had experimented a lot with the grid system, seeing the sorts of layouts I could implement into my rows but generally opted for the more even look as it was easier to grasp visually.
+
+# Deployment
+
+This website has been deployed using GitHub Page using [this link](https://afabor.github.io/CI-Milestone/).
+
+# Credits
+
+## Images
+
+    -
+    -
+    -
+    -
+
+## Code
+
+Some code for [cards](https://getbootstrap.com/docs/5.3/components/card/) and [carousel](https://getbootstrap.com/docs/5.3/components/carousel/) were taken from the Bootstrap Docs.
