@@ -89,7 +89,7 @@
 #about {
   height: 100vh;
   min-height: 300px;
-  padding: 50px;
+  padding: 80px;
 }
 
 .about .card i {
@@ -100,7 +100,7 @@
 #services {
   height: 100vh;
   min-height: 300px;
-  padding: 50px;
+  padding: 80px;
 }
 
 .services .card-body i {
