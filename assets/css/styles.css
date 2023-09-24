@@ -3,6 +3,8 @@
   --secondary-color: #b1060f;
 }
 
+/* NAVBAR */
+
 .navbar-brand {
   font-size: 200%;
   color: black;
@@ -35,6 +37,8 @@
 .nav-link .active {
   color: var(--primary-color);
 }
+
+/* HOME/CAROUSEL */
 
 .carousel-item {
   height: 100vh;
@@ -87,6 +91,8 @@
   color: var(--primary-color);
 }
 
+/* ABOUT SECTION */
+
 #about {
   min-height: 300px;
   padding: 80px;
@@ -96,6 +102,8 @@
   font-size: 30px;
   color: var(--secondary-color);
 }
+
+/* SERVICES */
 
 #services {
   min-height: 300px;
@@ -128,9 +136,13 @@
   color: var(--primary-color);
 }
 
+/* FOOTER */
+
 footer span {
   color: var(--primary-color);
 }
+
+/* MEDIA QUERIES */
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .card {
