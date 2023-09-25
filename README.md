@@ -96,9 +96,34 @@ Wireframes were made using Figma.
 
 # Testing
 
-When it came to testing this website, there are a number of things that I had struggled and am still figuring out.
+## Client stories testing
 
-## What Went Wrong
+Viewing my website from the clients perspective, I expect them to know what my business is about, the types of services we offer and how they can contact us to get a quote for our services. This generally leads them from:
+
+- Home > About > Services > Contact
+
+Within those, there are quick access buttons on each page to lead them to either the Contact page or Services page in one instant for ease of navigation. The logo on the top right also automatically leads to the home page.
+
+The home page is one of the most intuitive pages, as it allows for a user to access each page on the website through each slide without necessarily having to use the navbar. With there being a small piece of information pertaining to the information they will receive on those pages, it allows users to be more intruiged to parts of the site that appeals to them the most. 
+
+The structure with which the website was built makes in entirely possible to view all contents of this site without ever having to scroll the page. The use of bright and contrasting buttons that stick out to the user, make it that much easier to see more information about what is being sold.
+
+
+- Bootstrap issues 'pertaining to using the components and them not rendering correctly
+- Getting the carousel to slide properly
+- Ensuring that all buttons work as intended
+- Media queries, ensuring compatibility for all screen sizes. 
+
+## Lighthouse Summary
+
+![Mobile Lighthouse Summary](./assets/images/Lighthouse-mobile-sneaklean.png)
+![Desktop Lighthouse Summary](./assets/images/lighthouse-desktop-sneaklean.png)
+
+
+- Mention the pages merging together on mobile view when screens were 100vh
+
+
+## What Went Wrong - Including Bugs Discovered and Fixed
 
 As I have worked with HTML, CSS and JavaScript before, working with Bootstrap was a completely new but good experience to have as a lot of things you may have to make yourself are made easier through Bootstrap.
 
@@ -108,9 +133,11 @@ This is defintely something that I would like to be able to quick fix so I will 
 
 Another issue I have had with this project is with media queries.
 
-When I put my website on a smaller screen, the divs after the carousel all seeem to merge into one. I am not sure why this happens as they are all separate divs.
+When I put my website on a smaller screen, the divs after the carousel all seeem to merge into one. The way in which I fixed this was by removing each page from having a height of 100vh and just gave them a minimum height of 300px. This was a really big discovery as my screens would only work cohesively until a certain breakpoint, before they all started to merge into one.
 
-I have attempted different things in order to troubleshoot this, but nothing I have tried seems to work. The actual components act the way I want them to in terms of layout, but they all unfortunately overlap each other so you cannot see the Bootstrap grid variables at their fullest potential.
+I had also faced and issue with getting my carousel to slide on its own, without having to press the individual buttons to get it to slide. The slide class should work in Bootstrap, but this may be another thing that I have to work out.  
+
+
 
 ## What Went Well
 
