@@ -96,6 +96,15 @@ Wireframes were made using Figma.
 
 # Testing
 
+## Validating my Code
+
+To ensure that my code was free of any bugs that I may have not been able to see first hand, I made sure to validate my code using W3C. I did this by address as well as the actual HTML and CSS code. My CSS had no issues, but my HTML had to go through some changes. These were mainly from trailing slashes that were created by my formatting tool that I use with VS Code and a small issue with my buttons being nested within an anchor tag in the services page. 
+
+![W3C Validated By Address](./assets/images/wc3-validator-sneaklean.png)
+![W3C Validated By HTML](./assets/images/w3c-validator-html.png)
+![W3C Validated By CSS](./assets/images/w3c-validator-css.png)
+
+
 ## Client stories testing
 
 Viewing my website from the clients perspective, I expect them to know what my business is about, the types of services we offer and how they can contact us to get a quote for our services. This generally leads them from:
@@ -107,20 +116,16 @@ Within those, there are quick access buttons on each page to lead them to either
 The home page is one of the most intuitive pages, as it allows for a user to access each page on the website through each slide without necessarily having to use the navbar. With there being a small piece of information pertaining to the information they will receive on those pages, it allows users to be more intruiged to parts of the site that appeals to them the most. 
 
 The structure with which the website was built makes in entirely possible to view all contents of this site without ever having to scroll the page. The use of bright and contrasting buttons that stick out to the user, make it that much easier to see more information about what is being sold.
-
-
-- Bootstrap issues 'pertaining to using the components and them not rendering correctly
-- Getting the carousel to slide properly
-- Ensuring that all buttons work as intended
-- Media queries, ensuring compatibility for all screen sizes. 
+ 
 
 ## Lighthouse Summary
 
+Mobile Lighthouse Summary
 ![Mobile Lighthouse Summary](./assets/images/Lighthouse-mobile-sneaklean.png)
+
+Desktop Lighthouse Summary
 ![Desktop Lighthouse Summary](./assets/images/lighthouse-desktop-sneaklean.png)
 
-
-- Mention the pages merging together on mobile view when screens were 100vh
 
 
 ## What Went Wrong - Including Bugs Discovered and Fixed
